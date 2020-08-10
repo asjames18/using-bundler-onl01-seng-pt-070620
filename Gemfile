@@ -12,5 +12,5 @@ source "https://rubygems.org"
 
   group :development do
   gem 'pry'
-  gem 'respec', :group => :test
+  # gem 'respec', :group => :test
   end
