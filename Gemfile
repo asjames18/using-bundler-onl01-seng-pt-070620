@@ -9,6 +9,6 @@ source "https://rubygems.org"
   gem 'awesome_print', :git => 'git@github.com:awesome-print/awesome_print.git'
 
   group :test do
-    gem rspec
+    gem 'rspec'
   end
   end
