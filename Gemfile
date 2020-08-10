@@ -7,4 +7,4 @@ source "https://rubygems.org"
   gem 'hashie',
   gem 'octokit', '2.0', 'twiddle-wakka'
 
-  gem 'awesome_print', :git => git@github\.com:awesome\-print\/awesome_print.git
+  gem 'awesome_print', :git => 'git@github\.com:awesome\-print\/awesome_print.git'
