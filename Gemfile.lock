@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    hashie (4.1.0)
     rack (1.6.13)
     rack-protection (1.5.5)
       rack
@@ -14,6 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hashie
   sinatra (= 1.4.4)
 
 BUNDLED WITH
